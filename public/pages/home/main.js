@@ -208,4 +208,4 @@ const showPosts = (post) => {
     })
 
     btnDelete.forEach(catchBtn)
-}
+
