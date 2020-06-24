@@ -97,7 +97,7 @@ Foi utilizada a ferramenta trello, para execução do planejamento.
 -https
 
 ``` sh
-git clone https://github.com/naereloire/SAP004-social-network.git 
+git clone https://github.com/EvellynThamires/SAP004-social-network.git 
 ```
 
 * Instale as dependências do projeto com o comando:
