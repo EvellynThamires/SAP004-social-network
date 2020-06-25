@@ -228,6 +228,7 @@ const comments = (querySnapshot, postId) => {
                     }
                 </div>`;
     });
+    
     const list = document.getElementsByClassName('delete-comment-btn');
 
     for (const item of list) {
